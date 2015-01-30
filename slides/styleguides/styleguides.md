@@ -1,5 +1,6 @@
 # Styleguides
-Vorschlag zur Begriffsklärung
+## Anwendung & Erstellung
+Darstellung inspriert durch [Brad Frost](http://bradfrost.com/blog/post/style-guides/)
 
 --
 
@@ -8,6 +9,26 @@ Vorschlag zur Begriffsklärung
 1. Kommunikation (Team & Kunde)
 1. Viele Medienkanäle (Geräte & Plattformen)
 1. Interdisziplinäre Zusammenarbeit
+
+---
+
+## "Style Guide" im Sinne von ...
+
+stilistische Richtlinien zur Erstellung von Assets
+<!-- .element: class="fragment" -->
+
+* Produktionsgrafiken
+<!-- .element: class="fragment" data-autoslide="250" -->
+* Texte
+<!-- .element: class="fragment" data-autoslide="250" -->
+* Labels & Dialogtexte
+<!-- .element: class="fragment" data-autoslide="250" -->
+* Quelltexte
+<!-- .element: class="fragment" data-autoslide="250" -->
+* Multi-Channel-Kommunikation
+<!-- .element: class="fragment" data-autoslide="250" -->
+* ...
+<!-- .element: class="fragment" -->
 
 ---
 
@@ -20,6 +41,7 @@ Vorschlag zur Begriffsklärung
 * Marke
 * Sprache
 * Tonalität
+* ...
 
 --
 
@@ -27,6 +49,7 @@ Vorschlag zur Begriffsklärung
 * Design Pattern
 * Entwicklungsprinzipien
 * Features
+* ...
 
 --
 
@@ -35,18 +58,19 @@ Vorschlag zur Begriffsklärung
 * Smartphone-Apps
 * Tablet-Apps
 * Wearable-Apps
-* Print, etc.
+* Print
+* ...
 
 --
 
-### "Disziplinen"
+### Das Team
 * Visuelle Designer
 * Interaktionsdesigner
 * Nativ-Entwickler
 * Web-Entwickler
 * Texter
 * Marketing / Kunde
-* usw. usf.
+* ...
 
 ---
 
@@ -54,7 +78,7 @@ Vorschlag zur Begriffsklärung
 
 1. Markenidentität
 1. Designsprache
-1. generelle Tonalität
+1. Tonalität zu Touchpoints
 1. spezifischer Schreibstil
 1. UI-Bausteine
 1. Programmierstil
@@ -66,9 +90,9 @@ Markenidentität
 
 --
 
-<!-- -- data-background-transition="zoom" data-background="assets/Home-Brand-Center-West-Virginia-University-1024x874.png" -->
+<!-- -- data-background-transition="fade" data-background="assets/img_logo-design.jpg" -->
 
---
+### Brand Identity Guidelines
 
 * Logos
 * Typografie
@@ -77,6 +101,10 @@ Markenidentität
 * Tagline
 * weiteres (Visitenkarte, Vorlagen, ...)
 
+--
+
+<!-- -- data-background-transition="fade" data-background="assets/Home-Brand-Center-West-Virginia-University-1024x874.png" -->
+
 ---
 
 ## Design Language
@@ -84,28 +112,37 @@ Designsprache
 
 --
 
-<!-- -- data-background-transition="zoom" data-background="assets/Introduction-Material-design-Google-design-guidelines-700x521.png" -->
+<!-- -- data-background-transition="fade" data-background="assets/img_material-design.jpg" -->
 
---
+### Design Language
 
 * Generelle Design-Richtung
 * [Design-Philosophie](http://www.bbc.co.uk/gel/philosophy/design-philosophy)
 * Herangehensweise an Projekte
-* Verbindung von Branding Guidelines und UI-Pattern
+* Verbindet Branding Guidelines und UI-Pattern
+
+--
+
+<!-- -- data-background-transition="fade" data-background="assets/Introduction-Material-design-Google-design-guidelines-700x521.png" -->
 
 ---
 
 ## Voice and Tone
-generelle Tonalität
+Tonalität zu Touchpoints
+
 
 --
 
-<!-- -- data-background-transition="zoom" data-background="assets/Ember4-700x477.png" -->
+<!-- -- data-background-transition="fade" data-background="assets/img_voice-tone.jpg" -->
 
---
+### Voice and Tone
 
 * Eigentlich Teil der Brand Identity Guideline
 * Hier: [Änderung der Tonalität über Touchpoints](http://voiceandtone.com/)
+
+--
+
+<!-- -- data-background-transition="fade" data-background="assets/Ember4-700x477.png" -->
 
 ---
 
@@ -114,13 +151,17 @@ spezifischer Schreibstil
 
 --
 
-<!-- -- data-background-transition="zoom" data-background="assets/Ember5-700x493.png" -->
+<!-- -- data-background-transition="fade" data-background="assets/img_writing.jpg" -->
 
---
+### Writing
 
 * Konkrete Richtlinien für Autoren
 * Inhaltliche Fokus, Inhalte der Überschriften, Platzierung von Links, Call to Actions, etc.
 * [Beispiel](http://www.dal.ca/webteam/web_style_guide/writing_for_the_web.html)
+
+--
+
+<!-- -- data-background-transition="fade" data-background="assets/Ember5-700x493.png" -->
 
 ---
 
@@ -129,13 +170,17 @@ UI-Bausteine
 
 --
 
-<!-- -- data-background-transition="zoom" data-background="assets/Ember6-700x520.png" -->
+<!-- -- data-background-transition="fade" data-background="assets/img_atomic-design.jpg" -->
 
---
+### Pattern Libraries
 
 * Front-end Guidelines
 * Atomic Design UI-Elemente
 * Cross- / Multi-Device-Ansätze
+
+--
+
+<!-- -- data-background-transition="fade" data-background="assets/Ember6-700x520.png" -->
 
 ---
 
@@ -144,14 +189,18 @@ Programmierstil
 
 --
 
-<!-- -- data-background-transition="zoom" data-background="assets/Ember3-700x438.png" -->
+<!-- -- data-background-transition="fade" data-background="assets/img_code-style.jpg" -->
 
---
+### Code Style Guides
 
 * Coding-Konventionen / -Stil
 * Design Pattern (Code)
 * Beispiel-Code
 * Lesbarkeit, Pflegbarkeit, Skalierbarkeit
+
+--
+
+<!-- -- data-background-transition="fade" data-background="assets/Ember3-700x438.png" -->
 
 ---
 
@@ -161,11 +210,11 @@ Programmierstil
 
 ### Styleguides
 
-* Nicht alles muss beschrieben sein
-* Aber: Alle Aspekte zusammen bringen Ordnung in eine Firma/Marke
-* Stimmiges Gesamtbild aller Assets
-* Agiles Vorgehen wird begünstigt
-* Multi- / Cross-Device-Fähigkeit wird gestärkt
+Nicht alles muss beschrieben sein, aber alle Aspekte zusammen bringen Ordnung in eine Firma/Marke.
+<!-- .element: class="fragment" -->
+
+Stimmiges Gesamtbild aller Assets begünstigt agiles Vorgehen und Multi- / Cross-Device-Fähigkeit wird gestärkt.
+<!-- .element: class="fragment" -->
 
 --
 
@@ -183,3 +232,9 @@ Programmierstil
 
 * [Quelle dieser Präsentation](http://bradfrost.com/blog/post/style-guides/)
 * [Kommentare zum Thema](https://confluence.aperto.de/display/AMKB/2015/01/19/Style+Guides)
+
+---
+
+# Danke
+
+30.01.2015, Tamio
