@@ -1,0 +1,44 @@
+/**
+ * Aperto Move Theme based on simple theme.
+ *
+ * Theme is Copyright (C) 2015 Aperto Move, https://www.apertomove.de.
+ * Theme base is Copyright (C) 2012 Owen Versteeg, https://github.com/StereotypicalApps. It is MIT licensed.
+ * reveal.js is Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
+ */
+
+
+// Default mixins and settings -----------------
+@import "../template/mixins";
+@import "../template/settings";
+// ---------------------------------------------
+
+
+
+// Include theme-specific fonts
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900,300italic,400italic,600italic,700italic,900italic);
+
+
+// Override theme settings (see ../template/settings.scss)
+$mainFont: 'Source Sans Pro', sans-serif;
+$mainColor: #000;
+$headingFont: 'Source Sans Pro', sans-serif;
+$headingColor: #000;
+$headingTextShadow: none;
+$headingTextTransform: none;
+$backgroundColor: #fff;
+$linkColor: #00008B;
+$linkColorHover: lighten( $linkColor, 20% );
+$selectionBackgroundColor: rgba(0, 0, 0, 0.99);
+
+
+
+// Theme template ------------------------------
+@import "../template/theme";
+// ---------------------------------------------
+
+// Overwrite Theme template --------------------
+body {
+  background: #fff url("../theme/apertomove-assets/apertomove.svg") no-repeat content-box 10% 95%;
+  background-size: 150px;
+  background-color: #fff; }
+// ---------------------------------------------

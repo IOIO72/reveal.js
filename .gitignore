@@ -1,8 +1,11 @@
 .DS_Store
 .svn
+.idea/**
 log/*.log
 tmp/**
 node_modules/
 .sass-cache
 css/reveal.min.css
 js/reveal.min.js
+
+atlassian-ide-plugin.xml
