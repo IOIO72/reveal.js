@@ -113,7 +113,7 @@ module.exports = function(grunt) {
 				'plugin/**'
 			],
 			'my-slides.zip': [
-				'slides/*',
+				'slides/**',
 				'css/**',
 				'js/**',
 				'lib/**',
