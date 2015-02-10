@@ -263,3 +263,7 @@ body {
   background: #fff url("../theme/apertomove-assets/apertomove.svg") no-repeat content-box 10% 95%;
   background-size: 150px;
   background-color: #fff; }
+
+.reveal section img {
+  padding: 10px;
+  border: none; }
