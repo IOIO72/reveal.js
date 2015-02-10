@@ -197,6 +197,7 @@ Variante _Sprachsystem_
 * App-Tracking als Optimierungsgrundlage
 * Usability-Labortest
 * Usability-Optimierungen
+* Unterstützung weiterer Nutzungsszenarien
 * Android Material Design
 * iOS Flat-Design ausbauen
 
@@ -231,12 +232,21 @@ Aussagen über ...
 
 --
 
+### Unterstützung weiterer Nutzungsszenarien
+
+* Flugmodus / Roamingkostenreduktion für Reisende (Offline-Inhalte)
+* Benachrichtigungen für wichtige Mitteilungen (Favoriten)
+* News-Benachrichtigungen für Smartwatches
+* Nützliche Tools für die Zielgruppe
+
+--
+
 ### Material Design
 
 * Zeitgemäße App
 * Verbesserte Interaktionsmuster
 * Anprechendes Redesign
-* Unterstützungh neuer System-Features
+* Unterstützung neuer System-Features
 
 --
 
@@ -244,7 +254,7 @@ Aussagen über ...
 
 * Weitere Modernisierung der App
 * Redesign einiger Bereiche nach Usability-Analyse
-* Unterstürtung weiterer System-Features
+* Unterstützung weiterer System-Features
 * iPhone 6 Plus Optimierung
 
 ---
