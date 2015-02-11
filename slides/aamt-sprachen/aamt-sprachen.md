@@ -1,5 +1,5 @@
 # Auswärtiges Amt
-## Sprachen in der App
+## Sprach-Update der App
 
 --
 
@@ -16,6 +16,18 @@
 ---
 
 ## Vorstellung
+
+---
+
+## Ziel des Termins
+
+--
+
+Anfrage zur Berücksichtigung der Spracheinstellung.
+
+--
+
+Weiterentwicklung der App.
 
 ---
 
@@ -257,8 +269,43 @@ Aussagen über ...
 
 ---
 
-## Nächste Schritte
+## Beispiele zu den Optimierungsvorschlägen
+
+--
+
+### Erreichbarkeit mit dem Daumen im iPhone 6 Plus
+
+![Daumenzonen im iPhone](assets/iphone_thumb-zones-lineup.png)
+
+--
+
+iPhone 6 Plus und Slider-Platzierung
+
+![Slider in Artikel](assets/iphone-6-plus_aamt_slider.png)
+
+--
+
+### Symbolsprache
+
+![Symbolsprache](assets/aamt-symbolsprache.png)
 
 ---
 
-# Danke
+## Remote Testing
+
+
+| Anbieter | Geräte | Kosten |
+|----------|----------|----------|
+| [TestObject](https://testobject.com/) | > 120 / iOS & Android | ab 89$ / Monat, ausgewählte Geräte umsonst |
+| [AppThwack](https://appthwack.com/) | 326 / iOS & Android | ab 20$ / Monat |
+| [TestDroid](http://testdroid.com/) | > 100 / iOS & Android | ab 500$ / Monat |
+| [Keynote](http://www.keynote.com/solutions/testing/mobile-testing) | > 500 | ab 180$ / Monat, ausgewählte Geräte umsonst |
+| [Xamarin](http://xamarin.com/test-cloud) | ~ 1000 | ab 1000$ / Monat |
+
+---
+
+## Nächste Schritte
+
+1. Sprachkonzept & Umsetzung
+1. Weitere Tickets lösen
+1. Entscheidung zu weiteren Optimierungsmöglichkeiten
