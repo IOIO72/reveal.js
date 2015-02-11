@@ -31,7 +31,6 @@ $linkColorHover: lighten( $linkColor, 20% );
 $selectionBackgroundColor: rgba(0, 0, 0, 0.99);
 
 
-
 // Theme template ------------------------------
 @import "../template/theme";
 // ---------------------------------------------
@@ -43,8 +42,17 @@ body {
   background-color: #fff;
 }
 
-.reveal section img {
-  padding: 10px;
-  border: none;
+.reveal {
+  section img {
+    padding: 10px;
+    border: none;
+  }
+  table {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+    td {
+      font-size: 0.72em;
+    }
+  }
 }
+
 // ---------------------------------------------

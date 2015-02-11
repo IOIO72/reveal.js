@@ -267,3 +267,7 @@ body {
 .reveal section img {
   padding: 10px;
   border: none; }
+.reveal table {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
+  .reveal table td {
+    font-size: 0.72em; }
