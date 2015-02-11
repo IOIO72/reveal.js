@@ -6,8 +6,9 @@
 ## Agenda
 
 1. Vorstellung<!-- .element: class="fragment" data-autoslide="200" -->
+1. Einführung<!-- .element: class="fragment" data-autoslide="200" -->
 1. Problemstellung der Sprachauswahl in der App<!-- .element: class="fragment" data-autoslide="200" -->
-1. Vergleichbare Apps und Systemumgebung<!-- .element: class="fragment" data-autoslide="200" -->
+1. Vergleichbare App<!-- .element: class="fragment" data-autoslide="200" -->
 1. Ansätze zur Sprachauswahl-Optimierung<!-- .element: class="fragment" data-autoslide="200" -->
 1. Optimierungsmöglichkeiten für mögliche Updates<!-- .element: class="fragment" data-autoslide="200" -->
 1. Nächste Schritte<!-- .element: class="fragment" -->
@@ -18,11 +19,27 @@
 
 ---
 
-## Problemstellung der Sprachauswahl
+## Einführung
 
 --
 
-## Einführung
+## Systemeinstellungen für die App-Sprache
+
+--
+
+iOS erlaubt die Wahl der Hauptsprache und einer Reihenfolge von bevorzugten Sprachen.
+
+![Systemeinstellung zur Sprache unter iOS](assets/System_Sprache_iOS.jpg)
+
+--
+
+Android erlaubt die Wahl lediglich einer Systemsprache.
+
+![Systemeinstellung zur Sprache unter Android](assets/System_Sprache_Android.jpg)
+
+--
+
+## Klassifikation der App
 
 --
 
@@ -42,9 +59,10 @@ Kombinationsbeispiele
 
 ![Sprachkombinationen](assets/sprachkombinationen.png)
 
---
 
-## Problemstellung
+---
+
+## Problemstellung der Sprachauswahl
 
 --
 
@@ -141,26 +159,6 @@ Falls keine andere Sprache für den Artikel vorliegt, wird der Nutzer darauf hin
 
 ---
 
-## Systemeinstellungen für die App-Sprache
-
---
-
-![Sprach-Container](assets/zwei_spracharten.png)
-
---
-
-iOS erlaubt die Wahl der Hauptsprache und einer Reihenfolge von bevorzugten Sprachen.
-
-![Systemeinstellung zur Sprache unter iOS](assets/System_Sprache_iOS.jpg)
-
---
-
-Android erlaubt die Wahl lediglich einer Systemsprache.
-
-![Systemeinstellung zur Sprache unter Android](assets/System_Sprache_Android.jpg)
-
----
-
 ## Lösungsansätze
 
 --
@@ -208,7 +206,7 @@ Variante _Sprachsystem_
 Aussagen über ...
 
 * Verteilung der Sprachen
-* Interesse an Inhalten nach Regionen, Geräteklassen, ...
+* Interesse an Inhalten nach Regionen, Geräten, ...
 * Klickpfade
 * Anomalien in der Bedienung / Usability-Probleme
 
@@ -256,6 +254,10 @@ Aussagen über ...
 * Redesign einiger Bereiche nach Usability-Analyse
 * Unterstützung weiterer System-Features
 * iPhone 6 Plus Optimierung
+
+---
+
+## Nächste Schritte
 
 ---
 
