@@ -7,10 +7,10 @@
 
 1. Vorstellung<!-- .element: class="fragment" data-autoslide="200" -->
 1. Einführung<!-- .element: class="fragment" data-autoslide="200" -->
-1. Problemstellung der Sprachauswahl in der App<!-- .element: class="fragment" data-autoslide="200" -->
+1. Problemstellung<!-- .element: class="fragment" data-autoslide="200" -->
 1. Vergleichbare App<!-- .element: class="fragment" data-autoslide="200" -->
-1. Ansätze zur Sprachauswahl-Optimierung<!-- .element: class="fragment" data-autoslide="200" -->
-1. Optimierungsmöglichkeiten für mögliche Updates<!-- .element: class="fragment" data-autoslide="200" -->
+1. Optimierungsansätze<!-- .element: class="fragment" data-autoslide="200" -->
+1. Mögliche Updates<!-- .element: class="fragment" data-autoslide="200" -->
 1. Nächste Schritte<!-- .element: class="fragment" -->
 
 ---
@@ -23,11 +23,15 @@
 
 --
 
-Anfrage zur Berücksichtigung der Spracheinstellung.
+**Anfrage zur Berücksichtigung der Spracheinstellung.**
+
+_(Tickets: AVCMS-4109, AVCMS-4100, AVCMS-4099, AVCMS-4105)_
 
 --
 
-Weiterentwicklung der App.
+**Weiterentwicklung der App.**
+
+![Mobile Evolution](assets/mobile-timeline.jpg)
 
 ---
 
@@ -204,14 +208,9 @@ Variante _Sprachsystem_
 
 ## Weiteres Optimierungspotential
 
-* App-Tracking als Optimierungsgrundlage
-* Usability-Labortest
-* Usability-Optimierungen
-* Unterstützung weiterer Nutzungsszenarien
-* Android Material Design
-* iOS Flat-Design ausbauen
-
 --
+
+<!-- -- data-background-transition="fade" data-background="assets/bg_analytics.jpg" -->
 
 ### App-Tracking
 
@@ -224,6 +223,8 @@ Aussagen über ...
 
 --
 
+<!-- -- data-background-transition="fade" data-background="assets/bg_uselab.jpg" -->
+
 ### Labortest
 
 * Auswahl der Probanden nach Zielgruppen
@@ -232,6 +233,8 @@ Aussagen über ...
 * Wünsche der Nutzer
 
 --
+
+<!-- -- data-background-transition="fade" data-background="assets/bg_usability.jpg" -->
 
 ### Usability-Optimierungen
 
@@ -244,12 +247,41 @@ Aussagen über ...
 
 ### Unterstützung weiterer Nutzungsszenarien
 
-* Flugmodus / Roamingkostenreduktion für Reisende (Offline-Inhalte)
-* Benachrichtigungen für wichtige Mitteilungen (Favoriten)
-* News-Benachrichtigungen für Smartwatches
-* Nützliche Tools für die Zielgruppe
+--
+
+<!-- -- data-background-transition="fade" data-background="assets/bg_flugmodus.jpg" -->
+
+**Flugmodus / Roamingkostenreduktion im Ausland**
+
+Offline-Inhalte
 
 --
+
+<!-- -- data-background-transition="fade" data-background="assets/bg_push-notification.jpg" -->
+
+**Benachrichtigungen für wichtige Mitteilungen**
+
+für Favoriten
+
+--
+
+<!-- -- data-background-transition="fade" data-background="assets/bg_smartwatch.jpg" -->
+
+**News-Benachrichtigungen auf Smartwatches**
+
+--
+
+**Nützliche Tools für die Zielgruppe**
+
+Bspw.
+
+* Export der Kontaktdaten ins Adressbuch
+* Nächstliegende Auslandsvertretung
+* Verlauf aufgerufener Auslandsvertretungen
+
+--
+
+<!-- -- data-background-transition="fade" data-background="assets/bg_material-design.jpg" -->
 
 ### Material Design
 
@@ -259,6 +291,8 @@ Aussagen über ...
 * Unterstützung neuer System-Features
 
 --
+
+<!-- -- data-background-transition="fade" data-background="assets/bg_flat-design.jpg" -->
 
 ### iOS Flat Design
 
@@ -309,3 +343,7 @@ iPhone 6 Plus und Slider-Platzierung
 1. Sprachkonzept & Umsetzung
 1. Weitere Tickets lösen
 1. Entscheidung zu weiteren Optimierungsmöglichkeiten
+
+---
+
+![Mobile Webaward 2013](assets/mobile-webaward.jpg)
