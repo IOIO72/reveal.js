@@ -5,7 +5,7 @@
 
 ## Agenda
 
-1. Vorstellung<!-- .element: class="fragment" data-autoslide="200" -->
+1. Ziel des Termins<!-- .element: class="fragment" data-autoslide="200" -->
 1. Einführung<!-- .element: class="fragment" data-autoslide="200" -->
 1. Problemstellung<!-- .element: class="fragment" data-autoslide="200" -->
 1. Vergleichbare App<!-- .element: class="fragment" data-autoslide="200" -->
@@ -15,17 +15,14 @@
 
 ---
 
-## Vorstellung
-
----
-
 ## Ziel des Termins
 
 --
 
-**Anfrage zur Berücksichtigung der Spracheinstellung.**
-
+**Anfrage zur Berücksichtigung der Spracheinstellung.**<br>
 _(Tickets: AVCMS-4109, AVCMS-4100, AVCMS-4099, AVCMS-4105)_
+
+![Sprachen](assets/sprachen.gif)
 
 --
 
@@ -338,12 +335,13 @@ iPhone 6 Plus und Slider-Platzierung
 
 ---
 
+![Mobile Webaward 2013](assets/mobile-webaward.jpg)
+
+---
+
 ## Nächste Schritte
 
 1. Sprachkonzept & Umsetzung
 1. Weitere Tickets lösen
 1. Entscheidung zu weiteren Optimierungsmöglichkeiten
 
----
-
-![Mobile Webaward 2013](assets/mobile-webaward.jpg)
